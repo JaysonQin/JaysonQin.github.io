@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      This is title
+title:      Fluent Python
 subtitle:   This is subtitle
-date:       2019-04-21
-author:     Wang Pei
+date:       2023-06-14
+author:     JaysonQin
 header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
@@ -13,4 +13,4 @@ tags:
 
 # Title
 
-content
+It will record what I learn fron the "Fluent Pyhton"
