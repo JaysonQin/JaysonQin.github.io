@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      Fluent Python
-subtitle:   This is subtitle
+subtitle:   Book notes
 date:       2023-06-14
 author:     JaysonQin
-header-img: img/post-bg-swift2.jpg
+header-img: img/home-bg-o.jpg
 catalog: true
 tags:
     - Python
