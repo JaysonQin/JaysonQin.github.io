@@ -7,7 +7,9 @@ author:     JaysonQin
 header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
-    - Tylor
+    - Python
+    - Record
+    - Read
 ---
 
 
